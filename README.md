@@ -1,5 +1,5 @@
 # Remote Desktop Manager
-Aplicativo utilizado para conectar e gerenciar o mtsc.exe do Windows.
+Aplicativo utilizado para conectar e gerenciar a Conexão de Área de Trabalho Remota do Windows.
 
 ![RemoteDesktopManager](https://github.com/EmanoelFrt/RemoteDesktopManager/assets/95585581/430e0d2c-af40-4b30-8378-ff72158d5c64)
 
@@ -15,6 +15,7 @@ Aplicativo utilizado para conectar e gerenciar o mtsc.exe do Windows.
 - ``IDE Delphi 10.3``
 - ``Firebird``
 - ``Paradigma de orientação a objetos``
+- ``Conexão de Área de Trabalho Remota do Windows``
 
 # 🛠️ Abrir e rodar o projeto
 - O único pré-requisito para conseguir utilizar o **Remote Desktop Manager** é ter instalado o **Firebird 3.0 ou superior**.
