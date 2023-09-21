@@ -49,7 +49,7 @@ object frmCadastroCliente: TfrmCadastroCliente
   end
   object lbl_1: TLabel
     Left = 8
-    Top = 107
+    Top = 103
     Width = 55
     Height = 17
     Caption = 'Acesso(s)'
@@ -62,7 +62,7 @@ object frmCadastroCliente: TfrmCadastroCliente
   end
   object shp1: TShape
     Left = 8
-    Top = 130
+    Top = 126
     Width = 864
     Height = 2
     Anchors = [akLeft, akTop, akRight]
@@ -376,7 +376,7 @@ object frmCadastroCliente: TfrmCadastroCliente
   end
   object btn_novo_cliente: TBitBtn
     Left = 551
-    Top = 138
+    Top = 134
     Width = 103
     Height = 35
     Caption = 'Novo'
@@ -490,7 +490,7 @@ object frmCadastroCliente: TfrmCadastroCliente
   end
   object btn_editar_cliente: TBitBtn
     Left = 660
-    Top = 138
+    Top = 134
     Width = 103
     Height = 35
     Caption = 'Editar'
@@ -604,7 +604,7 @@ object frmCadastroCliente: TfrmCadastroCliente
   end
   object btn_excluir_cliente: TBitBtn
     Left = 769
-    Top = 138
+    Top = 134
     Width = 103
     Height = 35
     Caption = 'Excluir'

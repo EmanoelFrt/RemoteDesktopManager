@@ -3,7 +3,7 @@ object frmGerenciadorTS: TfrmGerenciadorTS
   Top = 0
   BorderIcons = [biSystemMenu]
   BorderStyle = bsSingle
-  Caption = 'Gerenciador de TS'
+  Caption = 'Gerenciador de '#193'rea de Trabalho Remota do Windows'
   ClientHeight = 567
   ClientWidth = 1019
   Color = clBtnFace

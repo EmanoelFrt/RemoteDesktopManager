@@ -2,35 +2,35 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2023/06/21 08:21:11.000.474,=C:\Users\Systempro\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/06/21 08:23:57.000.483,C:\Users\Systempro\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Systempro\Área de Trabalho\GerenciadorTS\gerPrincipal.dfm</Transaction>
-    <Transaction>2023/06/21 08:23:57.000.483,C:\Users\Systempro\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Systempro\Área de Trabalho\GerenciadorTS\gerPrincipal.pas</Transaction>
-    <Transaction>2023/06/21 08:24:08.000.532,C:\Users\Systempro\Documentos\Embarcadero\Studio\Projects\Project4.dproj=C:\Users\Systempro\Área de Trabalho\GerenciadorTS\GerenciadorTS.dproj</Transaction>
+    <Transaction>2023/06/21 08:23:57.000.483,C:\Users\Systempro\Área de Trabalho\GerenciadorTS\gerPrincipal.dfm=C:\Users\Systempro\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/06/21 08:23:57.000.483,C:\Users\Systempro\Área de Trabalho\GerenciadorTS\gerPrincipal.pas=C:\Users\Systempro\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/21 08:24:08.000.532,C:\Users\Systempro\Área de Trabalho\GerenciadorTS\GerenciadorTS.dproj=C:\Users\Systempro\Documentos\Embarcadero\Studio\Projects\Project4.dproj</Transaction>
     <Transaction>2023/06/21 09:56:15.000.296,=D:\GerenciadorTS\Unit1.pas</Transaction>
-    <Transaction>2023/06/21 09:57:09.000.990,D:\GerenciadorTS\gerCadastroCliente.dfm=D:\GerenciadorTS\Unit1.dfm</Transaction>
-    <Transaction>2023/06/21 09:57:09.000.990,D:\GerenciadorTS\gerCadastroCliente.pas=D:\GerenciadorTS\Unit1.pas</Transaction>
+    <Transaction>2023/06/21 09:57:09.000.990,D:\GerenciadorTS\Unit1.dfm=D:\GerenciadorTS\gerCadastroCliente.dfm</Transaction>
+    <Transaction>2023/06/21 09:57:09.000.990,D:\GerenciadorTS\Unit1.pas=D:\GerenciadorTS\gerCadastroCliente.pas</Transaction>
     <Transaction>2023/06/21 10:34:40.000.701,=D:\GerenciadorTS\Unit1.pas</Transaction>
-    <Transaction>2023/06/21 10:34:55.000.360,D:\GerenciadorTS\gerAcesso.dfm=D:\GerenciadorTS\Unit1.dfm</Transaction>
-    <Transaction>2023/06/21 10:34:55.000.360,D:\GerenciadorTS\gerAcesso.pas=D:\GerenciadorTS\Unit1.pas</Transaction>
+    <Transaction>2023/06/21 10:34:55.000.360,D:\GerenciadorTS\Unit1.pas=D:\GerenciadorTS\gerAcesso.pas</Transaction>
+    <Transaction>2023/06/21 10:34:55.000.360,D:\GerenciadorTS\Unit1.dfm=D:\GerenciadorTS\gerAcesso.dfm</Transaction>
     <Transaction>2023/06/21 11:55:17.000.253,=D:\GerenciadorTS\Unit1.pas</Transaction>
-    <Transaction>2023/06/21 11:56:12.000.496,D:\GerenciadorTS\gerTabelas.pas=D:\GerenciadorTS\Unit1.pas</Transaction>
-    <Transaction>2023/06/21 11:56:12.000.496,D:\GerenciadorTS\gerTabelas.dfm=D:\GerenciadorTS\Unit1.dfm</Transaction>
-    <Transaction>2023/06/21 14:01:30.000.562,D:\GerenciadorTS\gerBanco.dfm=D:\GerenciadorTS\gerTabelas.dfm</Transaction>
-    <Transaction>2023/06/21 14:01:30.000.562,D:\GerenciadorTS\gerBanco.pas=D:\GerenciadorTS\gerTabelas.pas</Transaction>
+    <Transaction>2023/06/21 11:56:12.000.496,D:\GerenciadorTS\Unit1.dfm=D:\GerenciadorTS\gerTabelas.dfm</Transaction>
+    <Transaction>2023/06/21 11:56:12.000.496,D:\GerenciadorTS\Unit1.pas=D:\GerenciadorTS\gerTabelas.pas</Transaction>
+    <Transaction>2023/06/21 14:01:30.000.562,D:\GerenciadorTS\gerTabelas.pas=D:\GerenciadorTS\gerBanco.pas</Transaction>
+    <Transaction>2023/06/21 14:01:30.000.562,D:\GerenciadorTS\gerTabelas.dfm=D:\GerenciadorTS\gerBanco.dfm</Transaction>
     <Transaction>2023/06/21 15:01:46.000.297,=D:\GerenciadorTS\Unit1.pas</Transaction>
-    <Transaction>2023/06/21 15:02:14.000.054,D:\GerenciadorTS\Tabelas\Cliente.pas=D:\GerenciadorTS\Unit1.pas</Transaction>
+    <Transaction>2023/06/21 15:02:14.000.054,D:\GerenciadorTS\Unit1.pas=D:\GerenciadorTS\Tabelas\Cliente.pas</Transaction>
     <Transaction>2023/06/21 15:08:44.000.312,=D:\GerenciadorTS\Unit1.pas</Transaction>
-    <Transaction>2023/06/21 15:10:27.000.368,D:\GerenciadorTS\Enum.pas=D:\GerenciadorTS\Unit1.pas</Transaction>
-    <Transaction>2023/06/21 16:20:59.000.519,D:\GerenciadorTS\gerCadastroAcesso.dfm=D:\GerenciadorTS\gerAcesso.dfm</Transaction>
-    <Transaction>2023/06/21 16:20:59.000.519,D:\GerenciadorTS\gerCadastroAcesso.pas=D:\GerenciadorTS\gerAcesso.pas</Transaction>
+    <Transaction>2023/06/21 15:10:27.000.368,D:\GerenciadorTS\Unit1.pas=D:\GerenciadorTS\Enum.pas</Transaction>
+    <Transaction>2023/06/21 16:20:59.000.519,D:\GerenciadorTS\gerAcesso.dfm=D:\GerenciadorTS\gerCadastroAcesso.dfm</Transaction>
+    <Transaction>2023/06/21 16:20:59.000.519,D:\GerenciadorTS\gerAcesso.pas=D:\GerenciadorTS\gerCadastroAcesso.pas</Transaction>
     <Transaction>2023/06/21 16:59:40.000.828,=D:\GerenciadorTS\Unit1.pas</Transaction>
-    <Transaction>2023/06/21 16:59:58.000.000,D:\GerenciadorTS\Tabelas\Acesso.pas=D:\GerenciadorTS\Unit1.pas</Transaction>
+    <Transaction>2023/06/21 16:59:58.000.000,D:\GerenciadorTS\Unit1.pas=D:\GerenciadorTS\Tabelas\Acesso.pas</Transaction>
     <Transaction>2023/06/23 07:36:53.000.354,=D:\GerenciadorTS\Unit1.pas</Transaction>
-    <Transaction>2023/06/23 07:37:06.000.538,D:\GerenciadorTS\Util.pas=D:\GerenciadorTS\Unit1.pas</Transaction>
+    <Transaction>2023/06/23 07:37:06.000.538,D:\GerenciadorTS\Unit1.pas=D:\GerenciadorTS\Util.pas</Transaction>
     <Transaction>2023/06/23 07:42:58.000.039,=D:\GerenciadorTS\Unit1.pas</Transaction>
-    <Transaction>2023/06/23 07:43:35.000.800,D:\GerenciadorTS\gerUsuario.pas=D:\GerenciadorTS\Unit1.pas</Transaction>
-    <Transaction>2023/06/23 07:43:35.000.800,D:\GerenciadorTS\gerUsuario.dfm=D:\GerenciadorTS\Unit1.dfm</Transaction>
+    <Transaction>2023/06/23 07:43:35.000.800,D:\GerenciadorTS\Unit1.dfm=D:\GerenciadorTS\gerUsuario.dfm</Transaction>
+    <Transaction>2023/06/23 07:43:35.000.800,D:\GerenciadorTS\Unit1.pas=D:\GerenciadorTS\gerUsuario.pas</Transaction>
     <Transaction>2023/07/03 09:10:42.000.595,=D:\GerenciadorTS\Unit1.pas</Transaction>
-    <Transaction>2023/07/03 09:11:18.000.941,D:\GerenciadorTS\Unit1.dfm=D:\GerenciadorTS\gerAcessoTS.dfm</Transaction>
-    <Transaction>2023/07/03 09:11:18.000.941,D:\GerenciadorTS\Unit1.pas=D:\GerenciadorTS\gerAcessoTS.pas</Transaction>
+    <Transaction>2023/07/03 09:11:18.000.941,D:\GerenciadorTS\gerAcessoTS.dfm=D:\GerenciadorTS\Unit1.dfm</Transaction>
+    <Transaction>2023/07/03 09:11:18.000.941,D:\GerenciadorTS\gerAcessoTS.pas=D:\GerenciadorTS\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>
