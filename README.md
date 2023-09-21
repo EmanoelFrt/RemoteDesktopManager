@@ -1,7 +1,7 @@
 # Remote Desktop Manager
 Aplicativo utilizado para conectar e gerenciar a Conexão de Área de Trabalho Remota do Windows.
 
-![RemoteDesktopManager](https://github.com/EmanoelFrt/RemoteDesktopManager/assets/95585581/430e0d2c-af40-4b30-8378-ff72158d5c64)
+![Gerenciador de Área de Trabalho Remota do Windows](https://github.com/EmanoelFrt/RemoteDesktopManager/assets/95585581/1b6c577d-0fa7-4ce1-8165-611a145b97ef)
 
 # 💻 Funcionalidades
 - Na tela inicial, é possível adicionar, editar ou excluir clientes de conexão.
