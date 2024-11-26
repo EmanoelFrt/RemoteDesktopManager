@@ -3,7 +3,7 @@ object banco: Tbanco
   Width = 215
   object con_banco: TFDConnection
     Params.Strings = (
-      'Database=C:\Repositorio\RemoteDesktopManager\bd\BANCO.FDB'
+      'Database=C:\RemoteDesktopManager\bd\BANCO.FDB'
       'User_Name=sysdba'
       'Password=masterkey'
       'Port=3050'
