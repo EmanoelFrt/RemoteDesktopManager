@@ -1,7 +1,7 @@
 object frmAcessoTS: TfrmAcessoTS
   Left = 0
   Top = 0
-  BorderIcons = []
+  BorderIcons = [biSystemMenu]
   BorderStyle = bsSingle
   Caption = 'Acesso Atual'
   ClientHeight = 160
@@ -12,7 +12,6 @@ object frmAcessoTS: TfrmAcessoTS
   Font.Height = -11
   Font.Name = 'Tahoma'
   Font.Style = []
-  OldCreateOrder = False
   Position = poOwnerFormCenter
   OnCreate = FormCreate
   OnDestroy = FormDestroy
@@ -20,7 +19,6 @@ object frmAcessoTS: TfrmAcessoTS
   DesignSize = (
     407
     160)
-  PixelsPerInch = 96
   TextHeight = 13
   object lbl_acesso_atual: TLabel
     Left = 8
